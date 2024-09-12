@@ -1,0 +1,27 @@
+.custom-bg{
+    background-color: #f7fcfc;
+}
+
+.custom-bg-1{
+    background-color: #3fbbc0 !important;
+}
+
+.custom-hr {
+    width: 50px;
+    border-top: 3px solid #3fbbc0 !important;
+    opacity: 1;
+    margin: 20px auto;
+}
+
+.custom-color{
+    color: #3fbbc0;
+}
+
+.custom-f-s{
+    font-size: 14px !important;
+}
+
+.border-dotted {
+    border: 2px dotted #3fbbc0;
+  }
+  
